@@ -3,7 +3,7 @@
 ##### Please download musicCharts folder for our project files.
 
 - Group Members:
-Ong Zhen Yu Brandon (2609773O), Kwek Yan Han (2609731K), Madeline Thong Jia Qi (2609777T), Loh Kai Heng (2609718L), Lim Jun Xian (2609724L)
+Ong Zhen Yu Brandon (2609773O), Loh Kai Heng (2609718L), Kwek Yan Han (2609731K), Madeline Thong Jia Qi (2609777T), Lim Jun Xian (2609724L)
 
 - Project Title:
 Music Charts
