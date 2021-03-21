@@ -25,7 +25,7 @@ redditCommentsSpotify = []
 twitterCommentsBillboard = []
 twitterCommentsSpotify = []
 
-apiKey = "AIzaSyCHtQzbOYUwHo5SOL9qum9IbXZBYmQU4cc"
+apiKey = ""
 
 
 def searchVideo(searchTerm):
