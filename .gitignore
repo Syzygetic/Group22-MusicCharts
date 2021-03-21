@@ -130,3 +130,4 @@ dmypy.json
 
 # Hide telegram bot key
 configOOP.py
+**/musicCharts/configOOP.py
