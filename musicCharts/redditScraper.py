@@ -6,6 +6,28 @@ import pandas
 import time
 from datetime import datetime
 from BaseScraperClass import BaseScraper
+import unittest
+
+
+class TestUserInputMethod(unittest.TestCase):
+    def test_isString(self):
+        inputFileType = type(inputFile)
+        inputPeriodType = type(scrapePeriod)
+        expectedStringType = str
+        self.assertEqual(inputFileType, expectedStringType)
+        self.assertEqual(inputPeriodType, expectedStringType)
+
+    def test_isInt(self):
+        inputSizeType = type(inputSize)
+        expectedIntType = int
+        self.assertEqual(inputSizeType, expectedIntType)
+
+    def test_isDateTime(self):
+        inputStartDateType = type(startSearchDate)
+        inputEndDateType = type(endSearchDate)
+        expectedDateTimeType = datetime
+        self.assertEqual(inputStartDateType, expectedDateTimeType)
+        self.assertEqual(inputEndDateType, expectedDateTimeType)
 
 
 class RedditScraper(BaseScraper):
@@ -265,3 +287,5 @@ while continueScrape == True:
             continueDetermined = True
         elif continueMsg == 'Y':
             continueDetermined = True
+
+unittest.main()
