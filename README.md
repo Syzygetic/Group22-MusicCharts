@@ -8,4 +8,4 @@ Lim Jun Xian (2609724L), Loh Kai Heng (2609718L), Kwek Yan Han (2609731K), Ong Z
 Music Charts
 
 - Project Goal:
-To create a platform where the users are able to have access to the top global songs and their statistics on the go, anytime and anywhere.
+To create a platform where the users are able to have access to the top global songs and their statistics on the go, anytime and anywhere
