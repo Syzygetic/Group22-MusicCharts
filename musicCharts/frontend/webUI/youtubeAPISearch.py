@@ -5,7 +5,7 @@ import urllib.request
 import urllib.parse
 
 
-apiKey = "AIzaSyCHtQzbOYUwHo5SOL9qum9IbXZBYmQU4cc"
+apiKey = ""
 
 
 def searchVideo(searchTerm):
