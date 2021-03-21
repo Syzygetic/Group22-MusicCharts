@@ -10,3 +10,5 @@ Music Charts
 
 - Project Goal:
 To create a platform where the users are able to have access to the top global songs and their statistics on the go, anytime and anywhere
+
+- .gitignore used for hiding keys/token
