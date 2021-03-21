@@ -147,6 +147,6 @@ dmypy.json
 #*README_files/
 
 # Hide telegram bot key
-configOOP.py
+*configOOP.py
 **/musicCharts/configOOP.py
 **/musicCharts/config.py
