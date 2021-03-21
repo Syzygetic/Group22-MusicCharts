@@ -146,5 +146,7 @@ dmypy.json
 *README_cache/
 #*README_files/
 
+# Hide keys
 # Hide telegram bot key
 *configOOP.py
+# Hide 
