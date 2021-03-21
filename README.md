@@ -1,5 +1,5 @@
 # Group22-MusicCharts
-This repository is created for our CSC1009-Object Oriented Programming Module Assignment. Please download the musicCharts folder for all our project files.
+This repository is created for our CSC1009-Object Oriented Programming Module Assignment.                                                                                     Please download the musicCharts folder for all our project files.
 
 - Group Members:
 Lim Jun Xian (2609724L), Loh Kai Heng (2609718L), Kwek Yan Han (2609731K), Ong Zhen Yu Brandon (2609773O), Madeline Thong Jia Qi (2609777T)
