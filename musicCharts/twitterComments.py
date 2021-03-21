@@ -4,10 +4,10 @@ import requests
 import csv
 
 # Authentication information
-consumer_key = "eR5BbhxN2oWt7CX90Iy9n5Y4g"
-consumer_secret = "5xDxAb6hLMAezM99oMGD6tZFomgsLN12itI1zk6aQpm8WhXFyV"
-access_token = "528551808-amdv1KchKPlTu9df1rELyem1Lfj0AJy5djjxiZim"
-access_token_secret = "9pLtERLe1dIblEejg7cZ7B1OnYMSJvXlJnuHML0qEj6Pb"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 # Creating the authentication object
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
